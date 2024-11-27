@@ -1,5 +1,6 @@
 # SOSTENIBILIDAD
 
+![imagenSostenible.jpeg]
  
 **Índice**
 * 1.1. Introducción
